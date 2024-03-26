@@ -1,0 +1,22 @@
+{
+  "animais": [
+    {
+      "id": 1,
+      "nome": "Leão",
+      "tipo": "Mamífero",
+      "habitat": "Savana"
+    },
+    {
+      "id": 2,
+      "nome": "Pinguim",
+      "tipo": "Ave",
+      "habitat": "Pólo Sul"
+    },
+    {
+      "id": 4,
+      "nome": "Tigre de Naniwa",
+      "tipo": "Mamifero",
+      "habitat": "Floresta Tropical"
+    }
+  ]
+}
